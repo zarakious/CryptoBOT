@@ -1,0 +1,10 @@
+python-binance
+TA-Lib
+numpy
+websocket_client
+python-telegram-bot
+colorama
+ccxt 
+schedule
+pandas
+schedule

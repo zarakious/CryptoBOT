@@ -1,0 +1,61 @@
+2021-06-07 09:31:12.924081 => We bought the TFUEL/USDT at 0.46325 USDT
+2021-06-07 10:00:14.734747 => We bought the ZIL/USDT at 0.12613 USDT
+we bought the order(TFUEL/USDT) at 0.46325 and we sell it for 0.47296 and we made 0.009709999999999996 USDT
+2021-06-07 11:31:59.649716 => We bought the ONE/USDT at 0.09764 USDT
+2021-06-07 12:00:12.138696 => We bought the ADA/USDT at 1.7053 USDT
+2021-06-07 12:00:26.655418 => We bought the THETA/USDT at 9.47 USDT
+2021-06-07 12:00:32.120808 => We bought the TFUEL/USDT at 0.48583 USDT
+we bought the order(ZIL/USDT) at 0.12613 and we sell it for 0.12882 and we made 0.002689999999999998 USDT
+2021-06-07 12:29:37.501964 => We bought the ZIL/USDT at 0.12882 USDT
+2021-06-07 13:00:04.879045 => We bought the VET/USDT at 0.13257 USDT
+2021-06-07 13:00:19.451639 => We bought the XLM/USDT at 0.38827 USDT
+we bought the order(ONE/USDT) at 0.09764 and we sell it for 0.09968 and we made 0.00204 USDT
+2021-06-07 15:00:30.612612 => We bought the ONE/USDT at 0.10021 USDT
+we bought the order(THETA/USDT) at 9.47 and we sell it for 9.692 and we made 0.22199999999999953 USDT
+we bought the order(VET/USDT) at 0.13257 and we sell it for 0.13623 and we made 0.0036599999999999966 USDT
+2021-06-07 16:00:21.267410 => We bought the THETA/USDT at 9.705 USDT
+we bought the order(TFUEL/USDT) at 0.48583 and we sell it for 0.49742 and we made 0.01158999999999999 USDT
+2021-06-07 17:00:17.500907 => We bought the VET/USDT at 0.13279 USDT
+we bought the order(THETA/USDT) at 9.705 and we sell it for 9.955 and we made 0.25 USDT
+2021-06-07 19:00:11.251561 => We bought the THETA/USDT at 9.939 USDT
+2021-06-08 14:49:30.396687 => We bought the XLM/USDT at 0.3373 USDT
+2021-06-08 14:49:53.344398 => We bought the ADA/USDT at 1.5155 USDT
+2021-06-08 16:00:53.400042 => We bought the THETA/USDT at 8.467 USDT
+2021-06-08 17:05:15.445459 => We bought the DOGE/USDT at 0.30652 USDT
+we bought the order(DOGE/USDT) at 0.30652 and we sell it for 0.31185 and we made 0.005330000000000001 USDT
+2021-06-08 18:04:09.642665 => We bought the DOGE/USDT at 0.31712 USDT
+2021-06-08 19:43:00.789032 => We bought the XLM/USDT at 0.33278 USDT
+2021-06-08 19:48:49.979188 => We bought the DOGE/USDT at 0.31647 USDT
+2021-06-08 19:51:15.293712 => We bought the THETA/USDT at 8.466 USDT
+2021-06-08 19:51:38.477211 => We bought the DOT/USDT at 20.872 USDT
+2021-06-08 19:51:49.766161 => We bought the ADA/USDT at 1.485 USDT
+2021-06-08 19:52:01.191302 => We bought the ZIL/USDT at 0.10439 USDT
+we bought the order(DOGE/USDT) at 0.31647 and we sell it for 0.32074 and we made 0.0042700000000000515 USDT
+2021-06-08 20:01:16.049065 => We bought the DOGE/USDT at 0.31935 USDT
+we bought the order(XLM/USDT) at 0.33278 and we sell it for 0.33813 and we made 0.005349999999999966 USDT
+we bought the order(DOGE/USDT) at 0.31935 and we sell it for 0.32374 and we made 0.004390000000000005 USDT
+2021-06-08 20:08:07.120350 => We bought the DOGE/USDT at 0.32382 USDT
+we bought the order(THETA/USDT) at 8.466 and we sell it for 8.584 and we made 0.11800000000000033 USDT
+we bought the order(DOT/USDT) at 20.872 and we sell it for 21.172 and we made 0.3000000000000007 USDT
+we bought the order(ZIL/USDT) at 0.10439 and we sell it for 0.10584 and we made 0.0014500000000000068 USDT
+we bought the order(ADA/USDT) at 1.485 and we sell it for 1.5132 and we made 0.028200000000000003 USDT
+2021-06-08 20:10:08.425040 => We bought the ZIL/USDT at 0.10602 USDT
+2021-06-08 20:11:02.535244 => We bought the ADA/USDT at 1.5134 USDT
+we bought the order(DOGE/USDT) at 0.32382 and we sell it for 0.32856 and we made 0.004740000000000022 USDT
+2021-06-08 20:48:44.630536 => We bought the DOGE/USDT at 0.32721 USDT
+we bought the order(ADA/USDT) at 1.5134 and we sell it for 1.5345 and we made 0.021099999999999897 USDT
+2021-06-08 20:55:04.787526 => We bought the ADA/USDT at 1.5343 USDT
+we bought the order(ZIL/USDT) at 0.10602 and we sell it for 0.10742 and we made 0.0013999999999999985 USDT
+we bought the order(ADA/USDT) at 1.5343 and we sell it for 1.5549 and we made 0.02059999999999995 USDT
+2021-06-08 21:55:43.406269 => We bought the ADA/USDT at 1.5516 USDT
+we bought the order(DOGE/USDT) at 0.32721 and we sell it for 0.33289 and we made 0.005680000000000018 USDT
+we bought the order(ADA/USDT) at 1.5516 and we sell it for 1.5733 and we made 0.02169999999999983 USDT
+2021-06-08 22:51:31.493575 => We bought the XLM/USDT at 0.35252 USDT
+2021-06-08 22:51:56.028998 => We bought the ADA/USDT at 1.581 USDT
+2021-06-08 22:52:07.290352 => We bought the ZIL/USDT at 0.11006 USDT
+2021-06-08 22:57:55.655732 => We bought the THETA/USDT at 8.901 USDT
+2021-06-08 23:10:01.621899 => We bought the DOGE/USDT at 0.33497 USDT
+2021-06-08 23:12:22.652244 => We bought the LUNA/USDT at 5.611 USDT
+2021-06-08 23:15:48.699275 => We bought the EOS/USDT at 5.029 USDT
+we bought the order(EOS/USDT) at 5.029 and we sell it for 5.1016 and we made 0.07260000000000044 USDT
+

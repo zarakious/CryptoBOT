@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Screener</title>
+</head>
+<body>
+<h1>This is a CundleStick Analyser</h1>
+    
+    <form action="">
+    <select name="pattern" id="pattern">
+    {% for pattern in patterns %}
+        <option value={{pattern}}>{{patterns[pattern]}}</option>
+    {% endfor %}  
+    </select>
+    <input type="submit" value="scan">
+    </form>
+  {% for stock in stocks %}
+  {{stocks[stock]}}
+  {% endfor %}
+</body>
+</html>

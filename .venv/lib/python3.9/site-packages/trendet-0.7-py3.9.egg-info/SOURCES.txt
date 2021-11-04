@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+docs/requirements.txt
+tests/__init__.py
+tests/requirements.txt
+tests/test_trendet.py
+tests/test_trendet_errors.py
+trendet/__init__.py
+trendet/identification.py
+trendet.egg-info/PKG-INFO
+trendet.egg-info/SOURCES.txt
+trendet.egg-info/dependency_links.txt
+trendet.egg-info/requires.txt
+trendet.egg-info/top_level.txt

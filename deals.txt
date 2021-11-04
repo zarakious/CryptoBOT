@@ -1,0 +1,91 @@
+2021-06-12 01:48:08.686642 => We bought the STPT/USDT at 0.06239 USDT
+we bought the order(STPT/USDT) at 0.06239 and we sell it for 0.06328 and we made 0.0008900000000000019 USDT
+2021-06-12 01:55:45.555825 => We bought the STPT/USDT at 0.0633 USDT
+we bought the order(STPT/USDT) at 0.0633 and we sell it for 0.06461 and we made 0.0013100000000000056 USDT
+2021-06-12 01:59:40.745651 => We bought the STPT/USDT at 0.06547 USDT
+2021-06-12 02:00:17.649242 => We bought the FIS/USDT at 1.312 USDT
+2021-06-12 02:03:07.719316 => We bought the SLP/USDT at 0.1391 USDT
+we bought the order(SLP/USDT) at 0.1391 and we sell it for 0.1411 and we made 0.0020000000000000018 USDT
+2021-06-12 02:07:55.629445 => We bought the SLP/USDT at 0.1421 USDT
+we bought the order(STPT/USDT) at 0.06547 and we sell it for 0.05851 and we made -0.006960000000000001 USDT
+2021-06-12 02:27:02.704906 => We bought the SUPER/USDT at 0.702 USDT
+we bought the order(SUPER/USDT) at 0.702 and we sell it for 0.722 and we made 0.020000000000000018 USDT
+2021-06-12 02:27:53.013834 => We bought the SUPER/USDT at 0.723 USDT
+we bought the order(SUPER/USDT) at 0.723 and we sell it for 0.729 and we made 0.006000000000000005 USDT
+2021-06-12 02:31:11.557614 => We bought the SUPER/USDT at 0.741 USDT
+we bought the order(SUPER/USDT) at 0.741 and we sell it for 0.759 and we made 0.018000000000000016 USDT
+2021-06-12 05:18:08.090539 => We bought the SUPER/USDT at 0.695 USDT
+we bought the order(SUPER/USDT) at 0.695 and we sell it for 0.706 and we made 0.01100000000000001 USDT
+2021-06-12 11:12:17.793520 => We bought the SUPER/USDT at 0.694 USDT
+2021-06-12 12:33:04.371733 => We bought the BNB/USDT at 336.11 USDT
+we bought the order(FIS/USDT) at 1.312 and we sell it for 1.335 and we made 0.02299999999999991 USDT
+we bought the order(BNB/USDT) at 336.11 and we sell it for 340.68 and we made 4.569999999999993 USDT
+2021-06-12 15:23:20.006433 => We bought the LINK/USDT at 21.765 USDT
+2021-06-12 16:48:12.574809 => We bought the TRX/USDT at 0.06839 USDT
+2021-06-12 16:54:44.632401 => We bought the MDX/USDT at 1.9646 USDT
+2021-06-12 17:03:20.586352 => We bought the VET/USDT at 0.10505 USDT
+2021-06-12 17:03:31.792114 => We bought the BNB/USDT at 343.29 USDT
+2021-06-12 17:06:07.599153 => We bought the BTC/USDT at 35812.19 USDT
+2021-06-12 17:06:32.000603 => We bought the EOS/USDT at 4.8507 USDT
+we bought the order(LINK/USDT) at 21.765 and we sell it for 22.073 and we made 0.30799999999999983 USDT
+2021-06-12 18:03:07.004297 => We bought the CHZ/USDT at 0.29127 USDT
+2021-06-12 18:06:01.796317 => We bought the LINK/USDT at 21.875 USDT
+2021-06-12 18:39:05.892750 => We bought the LTC/USDT at 161.54 USDT
+we bought the order(LTC/USDT) at 161.54 and we sell it for 163.95 and we made 2.4099999999999966 USDT
+we bought the order(VET/USDT) at 0.10505 and we sell it for 0.10677 and we made 0.0017199999999999993 USDT
+we bought the order(LINK/USDT) at 21.875 and we sell it for 22.173 and we made 0.29799999999999827 USDT
+we bought the order(BNB/USDT) at 343.29 and we sell it for 347.87 and we made 4.579999999999984 USDT
+2021-06-12 22:06:40.277709 => We bought the VET/USDT at 0.10682 USDT
+2021-06-12 22:09:18.333164 => We bought the LINK/USDT at 22.141 USDT
+2021-06-12 22:09:41.346619 => We bought the LTC/USDT at 163.37 USDT
+2021-06-12 23:18:50.063472 => We bought the BNB/USDT at 347.79 USDT
+we bought the order(BTC/USDT) at 35812.19 and we sell it for 36380.26 and we made 568.0699999999997 USDT
+2021-06-13 19:00:18.150354 => We bought the BTC/USDT at 37066.76 USDT
+we bought the order(TRX/USDT) at 0.06839 and we sell it for 0.06932 and we made 0.0009300000000000003 USDT
+2021-06-13 20:00:37.858053 => We bought the TRX/USDT at 0.06949 USDT
+we bought the order(EOS/USDT) at 4.8507 and we sell it for 4.9138 and we made 0.06310000000000038 USDT
+2021-06-13 20:05:03.531794 => We bought the EOS/USDT at 4.9173 USDT
+we bought the order(LTC/USDT) at 163.37 and we sell it for 165.48 and we made 2.109999999999985 USDT
+2021-06-13 20:12:54.838023 => We bought the LTC/USDT at 165.58 USDT
+we bought the order(BTC/USDT) at 37066.76 and we sell it for 37570.98 and we made 504.22000000000116 USDT
+we bought the order(BNB/USDT) at 347.79 and we sell it for 352.38 and we made 4.589999999999975 USDT
+2021-06-13 20:26:54.029921 => We bought the BNB/USDT at 352.21 USDT
+we bought the order(VET/USDT) at 0.10682 and we sell it for 0.10878 and we made 0.0019600000000000034 USDT
+we bought the order(BNB/USDT) at 352.21 and we sell it for 358.46 and we made 6.25 USDT
+we bought the order(EOS/USDT) at 4.9173 and we sell it for 4.9838 and we made 0.06649999999999956 USDT
+we bought the order(LINK/USDT) at 22.141 and we sell it for 22.448 and we made 0.30700000000000216 USDT
+we bought the order(TRX/USDT) at 0.06949 and we sell it for 0.07051 and we made 0.001020000000000007 USDT
+we bought the order(LTC/USDT) at 165.58 and we sell it for 167.82 and we made 2.2399999999999807 USDT
+2021-06-14 00:57:31.972860 => We bought the BTC/USDT at 38864.0 USDT
+2021-06-14 01:27:09.858268 => We bought the BNB/USDT at 365.58 USDT
+2021-06-14 01:30:33.859441 => We bought the VET/USDT at 0.11299 USDT
+2021-06-14 01:54:20.382352 => We bought the EOS/USDT at 5.0925 USDT
+2021-06-14 01:54:27.733976 => We bought the TRX/USDT at 0.0715 USDT
+2021-06-14 01:57:33.969871 => We bought the LTC/USDT at 170.84 USDT
+2021-06-14 02:03:28.862952 => We bought the LINK/USDT at 23.514 USDT
+we bought the order(CHZ/USDT) at 0.29127 and we sell it for 0.29553 and we made 0.0042600000000000415 USDT
+we bought the order(BTC/USDT) at 38864.0 and we sell it for 39572.72 and we made 708.7200000000012 USDT
+2021-06-14 09:39:24.172790 => We bought the CHZ/USDT at 0.28587 USDT
+we bought the order(LINK/USDT) at 23.514 and we sell it for 23.804 and we made 0.28999999999999915 USDT
+we bought the order(BNB/USDT) at 365.58 and we sell it for 371.61 and we made 6.03000000000003 USDT
+we bought the order(VET/USDT) at 0.11299 and we sell it for 0.11451 and we made 0.0015200000000000075 USDT
+we bought the order(LTC/USDT) at 170.84 and we sell it for 173.37 and we made 2.530000000000001 USDT
+we bought the order(CHZ/USDT) at 0.28587 and we sell it for 0.28964 and we made 0.0037699999999999956 USDT
+we bought the order(EOS/USDT) at 5.0925 and we sell it for 5.1637 and we made 0.07120000000000015 USDT
+2021-06-14 18:03:19.397046 => We bought the CHZ/USDT at 0.28548 USDT
+we bought the order(TRX/USDT) at 0.0715 and we sell it for 0.07243 and we made 0.0009300000000000003 USDT
+we bought the order(CHZ/USDT) at 0.28548 and we sell it for 0.32498 and we made 0.03949999999999998 USDT
+2021-06-16 02:36:02.420121 => We bought the LTC/USDT at 175.17 USDT
+we bought the order(MDX/USDT) at 1.9646 and we sell it for 2.0553 and we made 0.0907 USDT
+2021-06-16 10:54:49.086808 => We bought the EOS/USDT at 5.2026 USDT
+2021-06-16 11:24:13.477977 => We bought the VET/USDT at 0.11266 USDT
+2021-06-16 11:45:26.629971 => We bought the BTC/USDT at 40141.9 USDT
+2021-06-16 14:12:12.842365 => We bought the CHZ/USDT at 0.34066 USDT
+we bought the order(CHZ/USDT) at 0.34066 and we sell it for 0.34548 and we made 0.004819999999999991 USDT
+2021-06-16 14:50:24.780679 => We bought the CHZ/USDT at 0.34477 USDT
+2021-06-16 22:54:32.103742 => We bought the LINK/USDT at 23.679 USDT
+we bought the order(LINK/USDT) at 23.679 and we sell it for 24.006 and we made 0.32700000000000173 USDT
+2021-06-17 11:00:38.253150 => We bought the TRX/USDT at 0.07179 USDT
+2021-06-17 11:39:31.678168 => We bought the LINK/USDT at 24.294 USDT
+2021-06-17 11:42:28.537158 => We bought the BNB/USDT at 359.98 USDT
+2021-06-17 11:45:12.156254 => We bought the MDX/USDT at 2.0355 USDT
